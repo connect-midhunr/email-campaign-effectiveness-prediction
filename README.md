@@ -50,7 +50,6 @@ The following insights were gained from EDA:
 ## :book: Modelling
 
 <img src="Images/resullt_email.png" alt="Result">
-<img src="Images/ksplot_email.png" alt="K-S Plot">
 
 ## 📘: Conclusion
 
@@ -78,7 +77,7 @@ Midhun R | Avid Learner | Data Analyst | Data Scientist | Machine Learning Enthu
   <li><p>Machine Learning Mastery, 'Multinomial Logistic Regression With Python'. [Online].</p>
       <p>Available: https://machinelearningmastery.com/multinomial-logistic-regression-with-python/</p>
   </li>
-  <li><p>O'Reilly, 'K-S statistic plot'. [Online].</p>
-      <p>Available: https://www.oreilly.com/library/view/machine-learning-with/9781789343700/95a3272b-7a0f-429d-a992-2aa582df605e.xhtml/</p>
+  <li><p>Kaggle, 'How to Choose Right Metric for Evaluating ML Model'. [Online].</p>
+      <p>Available: https://www.kaggle.com/code/vipulgandhi/how-to-choose-right-metric-for-evaluating-ml-model/</p>
   </li>
 </ul>
