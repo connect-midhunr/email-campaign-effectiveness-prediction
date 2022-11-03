@@ -81,3 +81,5 @@ Midhun R | Avid Learner | Data Analyst | Data Scientist | Machine Learning Enthu
       <p>Available: https://www.kaggle.com/code/vipulgandhi/how-to-choose-right-metric-for-evaluating-ml-model/</p>
   </li>
 </ul>
+
+<a href="https://www.freepik.com/free-vector/email-campaign-concept-illustration_7367537.htm#query=email&position=0&from_view=search&track=sph">Image by storyset</a> on Freepik
