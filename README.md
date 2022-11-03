@@ -6,7 +6,7 @@ In this project, I have attempted to analyze the data on e-mail marketing campai
 
 ## :floppy_disk: Project Files Description</h2>
 
-<p>This project contains an executable iPython Notebook and a presentation as follows:</p>
+<p>This project contains an executable iPython Notebook, a presentation and sources as follows:</p>
 <h4>Executable Files:</h4>
 <ul>
   <li><b>Email_Campaign_Effectiveness_Prediction_Capstone_Project.ipynb</b> - Google Colab notebook containing data summary, exploration, visualisations, feature engineering, modelling, performance evaluation and conclusion.</li>
