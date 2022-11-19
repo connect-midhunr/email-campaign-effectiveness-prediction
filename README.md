@@ -35,7 +35,7 @@ The main objective is to create a machine learning model to characterize the mai
 4.	Data pre-processing, which involves inspection of both datasets and data cleaning.
 5.	Exploratory data analysis, to find which factors affect sales and how they affect it.
 6.	Feature engineering, to prepare data for modelling.
-7.	Modelling data and comparing the models to find out most suitable one for forecasting.
+7.	Modelling data and comparing the models to find out most suitable one for classification.
 8.	Conclusion.
 
 ## :book: Exploratory Data Analysis
