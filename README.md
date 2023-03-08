@@ -47,6 +47,12 @@ The following insights were gained from EDA:
 <li>As the number of previous communication increases, the chances of the e-mail being read or acknowledged also increases.</li>
 <li>E-mails tend to get ignored when word count is greater than 800.</li>
 
+## :book: Exploratory Data Analysis
+
+<li>Campaign 1 is more successful than other campaigns. So it is wise to continue Campaign 1 and discontinue others.</li>
+<li>Increase customer interactions to get more results.</li>
+<li>Limit word count to less than 800.</li>
+
 ## :book: Modelling
 
 <img src="Images/resullt_email.png" alt="Result">
