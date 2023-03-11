@@ -61,7 +61,7 @@ The following insights were gained from EDA:
 
 An interactive dashboard was also created with Tableau to display charts associated with the analysis.
 
-<img src="Images/DataViz_Email_2.jpg" alt="Banner">
+<img src="Images/DataViz_Email_2.jpg" width="450 px" alt="Banner">
 
 Click [here](https://lookerstudio.google.com/reporting/989c4fc2-64ec-402f-bdb4-c92d7d8bd57a) to interact with the data visualization.
 
