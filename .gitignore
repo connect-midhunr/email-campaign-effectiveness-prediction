@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # virtual environment
-email/
+email_venv/
