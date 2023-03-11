@@ -57,6 +57,15 @@ The following insights were gained from EDA:
 
 <img src="Images/resullt_email.png" alt="Result">
 
+## :book: Deployment
+
+<li>A web application is built to demonstrate the working of the trained machine learning model using Streamlit.</li>
+<li>This web application is deployed with Streamlit Cloud Community, employing CI/CD pipeline.</li>
+
+<img class="image-ss" src="Images/EMAIL_SS_DESKTOP.png" height="600px" alt="WebAppDesktop"> <img class="image-ss" src="Images/EMAIL_SS_DESKTOP.png" height="600px" alt="WebAppMobile">
+
+Link to deployed model: https://connect-midhunr-email-campaign-effectiveness-predict-app-e58c8b.streamlit.app/
+
 ### 📊 Data Visualization
 
 An interactive dashboard was also created with Tableau to display charts associated with the analysis.
