@@ -1,5 +1,6 @@
 <p align="center"> 
   <img src="Images/banner_email.png" alt="Banner">
+  Link to deployed model: https://connect-midhunr-email-campaign-effectiveness-predict-app-e58c8b.streamlit.app/
 </p>
 
 In this project, I have attempted to analyze the data on e-mail marketing campaign and build a machine learning model to predict the mail that is ignored, read, or acknowledged by the reader. No personal information of recipient is provided in this dataset.
