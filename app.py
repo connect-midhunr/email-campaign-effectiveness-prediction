@@ -55,6 +55,8 @@ def get_prediction(params: dict):
     print("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx")
     print()
     
+    parameter_df['Subject_Hotness_Score'] = np.sqrt(parameter_df['Subject_Hotness_Score'])
+    parameter_df['Total_Links_Images'] = np.log(parameter_df['Total_Links_Images'])
     X = parameter_df.replace([np.inf, -np.inf, np.nan], 0)
     X = scaler.transform(X)
     y = predictor.predict(X)
