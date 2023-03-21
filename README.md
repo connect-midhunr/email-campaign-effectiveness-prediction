@@ -42,7 +42,7 @@ The main objective is to create a machine learning model to characterize the mai
 ## :book: Exploratory Data Analysis
 
 The following insights were gained from EDA:
-<li>No e-mails of campaign type 1 got ignored.</li>
+<li>Less number of e-mails of campaign type 1 got ignored.</li>
 <li>If campaign type is 1, then the mail has 66% chance of getting read and 23% change of getting acknowledged.</li>
 <li>Customer location or time of day does not affect the status of e-mail.</li>
 <li>As the number of previous communication increases, the chances of the e-mail being read or acknowledged also increases.</li>
